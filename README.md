@@ -1,6 +1,6 @@
-> # Hi, I'm Thabo 👋🏽
+# Hi, I'm Thabo 👋🏽
 
-## **I'm a Software Developer/DevOps Engineer.**
+## **I'm a Software Developer / DevOps Engineer.**
 - 🚀 I specialize in AWS, with experience in design and implementation.
 - 💻 Check out my blog where occasionally share IT content.
 - 😃 I am passionate about my work and always eager to connect with other experts.
