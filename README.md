@@ -10,7 +10,7 @@
 
 <br>
 
-## **Connect with Me On Social Media** 📱 &nbsp;**
+## **Connect with Me On Social Media** 📱 &nbsp;
 
 <a href="https://www.linkedin.com/in/thabolebelo/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/tl_lebelo" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
