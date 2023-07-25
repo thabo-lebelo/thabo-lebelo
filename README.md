@@ -14,4 +14,4 @@
 
 <br>
 
-- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/thabo-lebelo)
+- See all my Certifications here 👉🏽 [Credly](https://www.credly.com/users/thabo-lebelo)
